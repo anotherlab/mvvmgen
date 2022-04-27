@@ -1,0 +1,1 @@
+Sample code to illustrate code generation problem with Visual Studio 2022 for Mac and the .NET Community Toolkit.
